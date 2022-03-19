@@ -64,3 +64,7 @@ text-align: center;
 body {
 background-color: #ffa7b6;
 }
+
+.descdeal {
+  text-decoration-line: line-through;
+}
